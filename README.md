@@ -22,6 +22,8 @@ Your one-click tool to collect links along with their tags and finally adding to
 
 The **Database ID** is the part of the URL after your workspace name (if you have one) and the slash (myworkspace/) and before the question mark (?). The ID is 32 characters long, containing numbers and letters. Copy the ID and paste it somewhere you can easily find later.
 
+- Click on share button and share your page to the integration you made in step 2 
+
 **Remember to open your page as full page and not inline database**
 ```
 https://www.notion.so/myworkspace/a8aec43384f447ed84390e8e42c2e089?v=...

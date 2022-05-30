@@ -1,0 +1,17 @@
+{
+    "manifest_version": 3,
+    "version": "1.3",
+    "name": "Linkotion3",
+    "host_permissions": [
+        "http://*/*",
+        "https://*/*"
+    ],
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "icon.png"
+    },
+    "permissions": [
+        "tabs"
+        
+    ]
+}

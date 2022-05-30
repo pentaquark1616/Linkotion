@@ -1,0 +1,33 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="index.css">
+    </head>
+    <body>
+        <div id="creds">
+           <input type="text" id="token-id" placeholder="Enter your Notion Secret key" autofocus required>
+           <input type="text" id="db-id" placeholder="Enter your Notion Database key" required> 
+           <button id="cred-sub">Submit</button>
+        </div>
+        <div id="main" >
+
+            <div id="link">
+                <button id="link-btn" class="inp-btn">Collect Link</button>
+                <input type="text" name="link" id="link-inp" autofocus required>
+            </div>
+            <div id="tag">
+                <input type="text" name="tag" id="tag-inp" required>
+                <button id="tag-btn" class="inp-btn">Enter Tag</button>
+            </div>
+            <input type="text" name="name" id="name" value="" placeholder="Give a name or title to remember it (optional)" >
+            <input type="text" name="comment" id="comment" value="" placeholder="Any Comments (optional)" > 
+            
+            <div id="getvalues">
+                <button id="main-btn">Add to Notion</button>
+                <p id="finalmsg"></p>
+            </div>
+            
+        </div>
+    </body>
+    <script src="./index.js"></script>
+    
+</html>

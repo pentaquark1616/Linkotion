@@ -41,12 +41,12 @@ chome://extensions/
 - Switch on developer mode and load the extracted folder of downloaded extension
 - Pin the extension for easy use
 ---
-### Step-5- For the first time users, you have to enter you *Integral Integration Key* as well as *Database ID*
+### Step-5- For the first time users, you have to enter your *Integral Integration Key* as well as *Database ID*
 
 - Click submit and start collecting your favourite sites, articles or twitter threads, etc. 
 ---
 ## 🚀 About Me
-I'm a second year undergraduate student currently pursuing MSc Mathematics and Bachelors in Electronics and Instrunmentation from BITS Pilani.
+I'm a second year undergraduate student currently pursuing MSc Mathematics and Bachelors in Electronics and Instrumentation from BITS Pilani.
 
 Currently exploring Web dev and Product
 
